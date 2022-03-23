@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd5aa28d-c1da-48d0-aedb-df09923a180c": {
+      "ProjectGuid": "cd5aa28d-c1da-48d0-aedb-df09923a180c",
+      "DisplayName": "ExceptionMoodAnalyser_6a",
+      "ColorIndex": 0
+    },
+    "981eb1ba-1a0b-4e74-aa11-7f3a72ac76e4": {
+      "ProjectGuid": "981eb1ba-1a0b-4e74-aa11-7f3a72ac76e4",
+      "DisplayName": "ExceptionUnitTest6",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
