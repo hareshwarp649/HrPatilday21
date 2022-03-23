@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "230017d6-f984-4449-9515-28ad43c0a5eb": {
+      "ProjectGuid": "230017d6-f984-4449-9515-28ad43c0a5eb",
+      "DisplayName": "ExceptionUserRegistra",
+      "ColorIndex": 0
+    },
+    "eb1632be-4a2f-4357-a19a-09aaa65059e3": {
+      "ProjectGuid": "eb1632be-4a2f-4357-a19a-09aaa65059e3",
+      "DisplayName": "ExceptionUnitTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
