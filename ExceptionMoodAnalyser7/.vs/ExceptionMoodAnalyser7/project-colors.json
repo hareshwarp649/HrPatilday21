@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2570e91f-4f89-4593-b81f-ca3a77342c71": {
+      "ProjectGuid": "2570e91f-4f89-4593-b81f-ca3a77342c71",
+      "DisplayName": "ExceptionMoodAnalyser7",
+      "ColorIndex": 0
+    },
+    "aeaccc7c-48f1-4542-a3bc-648d1b734fce": {
+      "ProjectGuid": "aeaccc7c-48f1-4542-a3bc-648d1b734fce",
+      "DisplayName": "ExceptionMoodAnalyse",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

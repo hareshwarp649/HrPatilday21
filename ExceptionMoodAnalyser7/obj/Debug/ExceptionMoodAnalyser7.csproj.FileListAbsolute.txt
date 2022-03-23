@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\ExceptionMoodAnalyser\ExceptionMoodAnalyser7\bin\Debug\ExceptionMoodAnalyser7.exe.config
+C:\Users\ADMIN\source\repos\ExceptionMoodAnalyser\ExceptionMoodAnalyser7\bin\Debug\ExceptionMoodAnalyser7.exe
+C:\Users\ADMIN\source\repos\ExceptionMoodAnalyser\ExceptionMoodAnalyser7\bin\Debug\ExceptionMoodAnalyser7.pdb
+C:\Users\ADMIN\source\repos\ExceptionMoodAnalyser\ExceptionMoodAnalyser7\obj\Debug\ExceptionMoodAnalyser7.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ExceptionMoodAnalyser\ExceptionMoodAnalyser7\obj\Debug\ExceptionMoodAnalyser7.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\ExceptionMoodAnalyser\ExceptionMoodAnalyser7\obj\Debug\ExceptionMoodAnalyser7.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ExceptionMoodAnalyser\ExceptionMoodAnalyser7\obj\Debug\ExceptionMoodAnalyser7.exe
+C:\Users\ADMIN\source\repos\ExceptionMoodAnalyser\ExceptionMoodAnalyser7\obj\Debug\ExceptionMoodAnalyser7.pdb
